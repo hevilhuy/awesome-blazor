@@ -50,6 +50,7 @@ Doing the [Build a web app with Blazor](https://docs.microsoft.com/en-us/learn/m
 * [Blazor courses on Microsoft Learn](https://docs.microsoft.com/learn/browse/?expanded=dotnet%2Cazure%2Csurface&products=dotnet%2Cwindows&roles=developer&terms=blazor) - Blazor courses on Microsoft Learn.
 * [Blazor-Dev gallery on .NET Foundation](https://dotnet.myget.org/gallery/blazor-dev) - Daily builds of the 'dev' branch of Blazor.
 * [Blazor Extensions](https://github.com/BlazorExtensions) - Curated extensions for Microsoft ASP.Net Core Blazor.
+* [Blazor School](https://blazorschool.com/) - Blazor Community Docs.
 * [Blazor University](http://blazor-university.com/) - Unofficial documentation website.
 * [Demo](https://blazor-demo.github.io/) - Official basic demo website.
 * [Documentation](https://docs.microsoft.com/aspnet/core/blazor) - Official documentation, by Microsoft.
@@ -597,6 +598,7 @@ Doing the [Build a web app with Blazor](https://docs.microsoft.com/en-us/learn/m
 ## Community
 * [Awesome Blazor on Twitter](https://twitter.com/awesomeblazor) - This repository's Twitter feed.
 * [Gitter](https://gitter.im/aspnet/Blazor) - Blazor discussion on Gitter.
+* [Blazor School Discord Community](https://discord.com/invite/HsTu2Emqsd) - A Discord community by Blazor School.
 * [Learn Blazor](https://learn-blazor.com/) - Community documentation on Blazor.
 * [Blazor Help Website](https://blazorhelpwebsite.com/) - Blogs and code samples primarily covering server-side Blazor.
 * [Practical samples of Blazor](https://github.com/dodyg/practical-aspnetcore/tree/master/projects/blazor) - Practical samples of Blazor.
