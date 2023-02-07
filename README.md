@@ -51,6 +51,9 @@ Doing the [Build a web app with Blazor](https://docs.microsoft.com/en-us/learn/m
 * [Blazor-Dev gallery on .NET Foundation](https://dotnet.myget.org/gallery/blazor-dev) - Daily builds of the 'dev' branch of Blazor.
 * [Blazor Extensions](https://github.com/BlazorExtensions) - Curated extensions for Microsoft ASP.Net Core Blazor.
 * [Blazor University](http://blazor-university.com/) - Unofficial documentation website.
+* [Blazor School](http://blazorschool.com/) -   <a href="https://discord.com/invite/HsTu2Emqsd">
+    <img src="https://img.shields.io/discord/871602465676619858?color=%237b3cc3&label=Blazor%20School%20Discord&logo=discord&logoColor=white&style=for-the-badge"/>
+  </a>Your go-to site for expert Blazor tutorials on both Blazor WebAssembly and Blazor Server, utilizing the latest versions of .NET. Stay current with updated Blazor documentation, in sync with Microsoft's updates, and join a vibrant, free community of fellow learners.
 * [Demo](https://blazor-demo.github.io/) - Official basic demo website.
 * [Documentation](https://docs.microsoft.com/aspnet/core/blazor) - Official documentation, by Microsoft.
 * [eShopOnBlazor](https://github.com/dotnet-architecture/eShopOnBlazor) - ![GitHub stars](https://img.shields.io/github/stars/dotnet-architecture/eShopOnBlazor?style=flat-square&cacheSeconds=604800&logo=microsoft) ![last commit](https://img.shields.io/github/last-commit/dotnet-architecture/eShopOnBlazor?style=flat-square&cacheSeconds=86400) Migration of a traditional ASP.NET Web Forms app to Blazor, sample by Microsoft Architecture.
